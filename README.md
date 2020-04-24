@@ -1,7 +1,5 @@
+# Hyperlink
 
+A dark theme with great colors.
 
-```css
-.gradient {
-    background: linear-gradient(hsb(210, 10%, 26%), hsb(210, 10%, 20%));
-}
-```
+![Screenshot](./Images/extension/rectangle.png.png)
