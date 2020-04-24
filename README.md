@@ -2,4 +2,4 @@
 
 A dark theme with great colors.
 
-![Screenshot](./Images/extension/rectangle.png.png)
+![Screenshot](https://stefkors.com/hyperlink/rectangle.png)
