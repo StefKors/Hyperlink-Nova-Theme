@@ -26,6 +26,7 @@ meta.window {
 }
 meta.titlebar {
     color: white;
+    border-color: #414D64;
     background-color: #1C2639;
 }
 meta.titlebar.inactive {
