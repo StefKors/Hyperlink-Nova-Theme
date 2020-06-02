@@ -1,12 +1,12 @@
 {
-    "identifier": "stefkors.Hyperlink",
-    "name": "Hyperlink",
-    "vendor": "Stef Kors",
-    "description": "A dark theme with great colors.",
-    "version": "1.0",
-    "categories": ["themes"],
-    "homepage": "https://github.com/StefKors/Hyperlink-Nova-Theme",
-    "bugs": {
-        "email": "stef.kors@gmail.com"
-    }
+  "identifier": "stefkors.Hyperlink",
+  "name": "Hyperlink",
+  "vendor": "Stef Kors",
+  "description": "A dark theme with great colors.",
+  "version": "1.1",
+  "categories": ["themes"],
+  "homepage": "https://github.com/StefKors/Hyperlink-Nova-Theme",
+  "bugs": {
+    "email": "stef.kors@gmail.com"
+  }
 }
