@@ -7,7 +7,8 @@ meta {
  /* .recolor {
     background: #1C2639;
     bg-lighter: #28344B
-    comment: #414D64;
+    comment: #A8ADB7;
+    invisibles: #414D64;
     text: white;
     color: #FDD46B;
     color: #53E0FC;
@@ -25,6 +26,7 @@ meta.window {
 }
 meta.titlebar {
     color: white;
+    border-color: #414D64;
     background-color: #1C2639;
 }
 meta.titlebar.inactive {
@@ -87,7 +89,7 @@ meta.text {
     color: white;
 }
 meta.text.invisible {
-    color: #A8ADB7;
+    color: #414D64;
 }
 meta.text.selected {
     color: white;
@@ -121,13 +123,13 @@ keyword {
     color: #FDD46B;
 }
 comment {
-    color: #414D64;
+    color: #A8ADB7;
 }
 processing {
-    color: #414D64;
+    color: #A8ADB7;
 }
 declaration {
-    color: #414D64;
+    color: #A8ADB7;
 }
 bracket {
     color: white;
